@@ -1,4 +1,4 @@
-# DeepSurv_example
+# DeepSurv_Research
 
 
 ## Readning List
