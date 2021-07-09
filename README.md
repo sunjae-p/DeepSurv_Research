@@ -1,7 +1,7 @@
 # DeepSurv_Research
 
 
-## Readning List
+## Readning List(Paper)
 
 | Number | Year | Paper | 
 |---|---|:---|
