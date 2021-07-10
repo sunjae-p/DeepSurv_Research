@@ -17,7 +17,7 @@
 | Number | Year | Link | 
 |:---:|:---:|:---:|
 | 1 | 2020 | [Survival Analysis with Python Tutorial — How, What, When, and Why](https://pub.towardsai.net/survival-analysis-with-python-tutorial-how-what-when-and-why-19a5cfb3c312) |
-
+| 2 | 2021 | [Introduction to Survival Analysis](https://medium.com/nerd-for-tech/customer-churn-survival-analysis-2c73385bf648) |
 
 
 
